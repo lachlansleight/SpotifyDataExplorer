@@ -1,0 +1,726 @@
+{
+  "tracks": [
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Gossamer Silk"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Virgin Ice"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Sixtyniner"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Fish On Land"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Meg II"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Hocking"
+    },
+    {
+      "artist": "Daniel Pemberton",
+      "album": "Steve Jobs (Original Motion Picture Soundtrack)",
+      "track": "The Musicians Play Their Instruments..."
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Dawn Chorus"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Magic Window"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Axolotl"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Morning Splendor"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "It's Me That You Need"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "The Smallest Weird Number"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Telephasic Workshop"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Alpha And Omega"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Walking Through Mist"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Birthday Suit"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "Ema"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Melissa Juice"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Apocalypso"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Hymn 2000"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Opening The Mouth"
+    },
+    {
+      "artist": "Iron & Wine",
+      "album": "Our Endless Numbered Days",
+      "track": "Naked As We Came"
+    },
+    {
+      "artist": "Bohren & Der Club Of Gore",
+      "album": "Midnight Radio",
+      "track": "Midnight Radio Track 1"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Energy Warning"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Twoism"
+    },
+    {
+      "artist": "Etherwood",
+      "album": "Etherwood",
+      "track": "Begin By Letting Go"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "You Could Feel The Sky"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "The Snowdon Song"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "The Unveiling"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Homecoming"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Freedom at the 45th Floor"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Pete Standing Alone"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Dandelion"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Don't Sing This Song"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Come Along"
+    },
+    {
+      "artist": "Biosphere",
+      "album": "The Petrified Forest",
+      "track": "Black Mesa"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Val-Hala"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Just Like Strange Rain"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Morrison Heathcliff"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "All Across The Havens"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Hole in My Heart"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Egg and Soldiers"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Gyroscope"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Over The Horizon Radar"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Open The Light"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "1969"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "The Devil Is In The Details"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "Sickbay"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Beetroot Kvass"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Beware The Friendly Stranger"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "Lucy Dub"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Gulliver/It's Hay Chewed - Reprise Version"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Music Is Math"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Swordsman of Samoa"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Birth a Basket"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Corsair"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Wriggle"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Sprouts"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "One Very Important Thought"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Sargasso Sea"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Kaini Industries"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Seeya Later"
+    },
+    {
+      "artist": "Olivia Foa'i",
+      "album": "Moana",
+      "track": "Logo Te Pate"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "An Eagle In Your Mind"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "A Is To B As B Is To C"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Iced Cooly"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Mind of Rocks"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "I Saw Drones"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Western Ford Gateway"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Happy Cycling"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Linger a While"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "The Color Of The Fire"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Sixtyten"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "Brittle"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Cruising Altitude 36,000 Feet"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Snugglyug"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Little Streams Make Big Rivers"
+    },
+    {
+      "artist": "Nick Drake",
+      "album": "Five Leaves Left",
+      "track": "Day Is Done"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Linger Longer"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Oirectine"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Empty Sky"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "Mode"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "In The Annexe"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Spring Bottom"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Turquoise Hexagon Sun"
+    },
+    {
+      "artist": "Sandy Denny",
+      "album": "Fairport Convention: The Fairport Companion - Loose Chippings from the Fairport Convention Family Tree",
+      "track": "Milk and Honey - Alternate Take"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "All on the First Day"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Basefree"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Ready Lets Go"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Julie And Candy"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "The Scaffold"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Mushroom Trip"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "The Beach At Redpoint"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Warriors of the Sun"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Waltz for a Spaniel"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Lady Samantha"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Last Waltz"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Solar Waltz"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Aquarius"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Spatial Spectre"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Olson"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Wildlife Analysis"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Bocuma"
+    },
+    {
+      "artist": "Fleet Foxes",
+      "album": "Helplessness Blues",
+      "track": "The Cascades"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Energies"
+    },
+    {
+      "artist": "Shakira",
+      "album": "Oral Fixation, Vol. 2 (Expanded Edition)",
+      "track": "Hips Don't Lie (feat. Wyclef Jean)"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "First Narrows"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "Eclipse of the Moon"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Lady What's Tomorrow"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Skyline Pigeon"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism",
+      "track": "Smokes Quantity / 1986 Summer Fire"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Sunshine Recorder"
+    },
+    {
+      "artist": "Iron & Wine",
+      "album": "Our Endless Numbered Days",
+      "track": "Passing Afternoon"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Snow Day For Lhasa"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Au Crépuscule, Sans Laisse"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Smokes Quantity"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Roygbiv"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "In Flight Suspension"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "Trampolin"
+    },
+    {
+      "artist": "Donato Dozzy",
+      "album": "Plays Bee Mask",
+      "track": "Vaporware 01"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Triangles & Rhombuses"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Bonsai Terrace"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza",
+      "track": "A Dog River"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows",
+      "track": "Cloister"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children",
+      "track": "Rue The Whirl"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi",
+      "track": "Diving Station"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day",
+      "track": "There Are No Greater Heroes"
+    },
+    {
+      "artist": "Cosmo Sheldrake",
+      "album": "The Much Much How How and I",
+      "track": "Pliocene"
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music",
+      "track": "Rain on Ancient Quays"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky",
+      "track": "Sails"
+    },
+    {
+      "artist": "Tim Buckley",
+      "album": "Goodbye And Hello",
+      "track": "Phantasmagoria in Two"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Pauline Anna Strom",
+      "album": "Trans-Millenia Music"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Trance Anthems Top 60"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Empty Sky"
+    },
+    {
+      "artist": "Nils Frahm",
+      "album": "Spaces"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Geogaddi"
+    },
+    {
+      "artist": "Loscil",
+      "album": "First Narrows"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Music Has The Right To Children"
+    },
+    {
+      "artist": "Various Artists",
+      "album": "Putumayo Presents African Café"
+    },
+    {
+      "artist": "Tony, Caro & John",
+      "album": "All on the First Day"
+    },
+    {
+      "artist": "Nils Frahm",
+      "album": "Screws"
+    },
+    {
+      "artist": "Esmerine",
+      "album": "La Lechuza"
+    },
+    {
+      "artist": "Boards of Canada",
+      "album": "Twoism"
+    },
+    {
+      "artist": "Nils Frahm",
+      "album": "Felt"
+    }
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}
