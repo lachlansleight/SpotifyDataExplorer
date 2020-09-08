@@ -1,16 +1,18 @@
 import React, {useState, useEffect} from 'react'
 
-import streamingHistory0 from '../../data/AubreyData/StreamingHistory0.json'
-import streamingHistory1 from '../../data/AubreyData/StreamingHistory1.json'
-import streamingHistory2 from '../../data/AubreyData/StreamingHistory2.json'
+import ArtistOverview from './ArtistOverview'
 
-const Home = () => {
-    const [data, setData] = useState(null);
+import './css/Explorer.css'
+
+const DataExplorer = ({rawData}) => {
+
+    const [countData, setCountData] = useState([]);
+    const [artistTiles, setArtistTiles] = useState([]);
+
     useEffect(() => {
-        const combined = streamingHistory0
-            .concat(streamingHistory1)
-            .concat(streamingHistory2);
-        const allArtists = combined.reduce((acc, item) => {
+        if(!rawData) return;
+
+        const allArtists = rawData.reduce((acc, item) => {
             const artistIndex = acc.findIndex(a => a.name === item.artistName);
             if(artistIndex !== -1) {
                 const trackIndex = acc[artistIndex].tracks.findIndex(t => t.name === item.trackName);
@@ -48,27 +50,50 @@ const Home = () => {
             }
         }, [])
         .map(artist => {
-            return {count: artist.tracks.reduce((acc, track) => acc + track.count, 0),
+            return {
+                count: artist.tracks.reduce((acc, track) => acc + track.count, 0),
                 ...artist,
                 tracks: artist.tracks.sort((a, b) => b.count - a.count)
             }
         }).sort((a, b) => b.count - a.count);
 
-        setData({
-            
+        setCountData({
             count: allArtists.reduce((acc, artist) => acc + artist.count, 0),
-            artists: allArtists,
+            artists: allArtists
         });
-    }, [])
+    }, [rawData])
+
+    useEffect(() => {
+        if(!countData || countData.length === 0) return;
+
+        setArtistTiles(countData.artists.map((artist, index) => {
+            return <ArtistOverview key={`artist-${index}`} artist={artist} />
+        }))
+
+    }, [countData])
+
+    if(!countData || !countData.artists) {
+        return null;
+    }
 
     return (
-        <div className="main">
-            <div className="container">
-                <h1>Aubrey's History</h1>
-                <pre>{JSON.stringify(data, null, 2)}</pre>
+        <div className="data-explorer">
+            <h1>Overview</h1>
+            <div className="overview-stats">
+                <div className="tile">
+                    <p>Total Plays</p>
+                    <p>{countData.count}</p>
+                </div>
+                <div className="tile">
+                    <p>Total Artists</p>
+                    <p>{countData.artists.length}</p>
+                </div>
+            </div>
+            <div className="artist-tile-container">
+                {artistTiles}
             </div>
         </div>
     )
 }
 
-export default Home;
+export default DataExplorer;

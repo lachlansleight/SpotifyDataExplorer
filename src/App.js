@@ -3,8 +3,6 @@ import {Route, Switch} from 'react-router-dom'
 
 import Navbar from './components/layout/Navbar'
 import Home from './components/layout/Home'
-import LachlanHistory from './components/pages/LachlanHistory'
-import AubreyHistory from './components/pages/AubreyHistory'
 
 function App() {
     return (
@@ -13,8 +11,6 @@ function App() {
 
             <Switch>
                 <Route exact path="/"><Home /></Route>
-                <Route path="/lachlan"><LachlanHistory /></Route>
-                <Route path="/aubrey"><AubreyHistory /></Route>
             </Switch>
         </div>
     );
