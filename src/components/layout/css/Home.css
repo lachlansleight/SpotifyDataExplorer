@@ -1,0 +1,13 @@
+.dropzone {
+    width: 80%;
+    margin: auto;
+    height: 300px;
+    text-align: center;
+    font-size: 1.2em;
+    border: 2px dashed white;
+    display: grid;
+    place-items: center;
+    background-color: rgba(255,255,255,0);
+
+    transition: all 0.3s;
+}
